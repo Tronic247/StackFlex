@@ -12,4 +12,4 @@
 
 ## Welcome to the StackFlex source code repo!
 
-Here you can find for the NextJS site.
+Here you can find source code for the NextJS site.
