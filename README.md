@@ -13,3 +13,9 @@
 ## Welcome to the StackFlex source code repo!
 
 Here you can find source code for the NextJS site.
+
+## Running locally
+
+You need to change the environment variables in `.env.example`,`.env.local.example` and rename it to `.env`,`.env.local`.
+
+Then install the dependencies with `npm install` and run the server with `npm run dev`.
