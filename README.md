@@ -12,7 +12,7 @@
 
 ## Welcome to the StackFlex source code repo!
 
-Here you can find source code for the NextJS site.
+Here you can find source code for the NextJS site. Created for the [Hashnode](https://hashnode.com/?source=planetscale_hackathon_announcement) x [Planetscale](https://planetscale.com/?utm_source=hashnode&utm_medium=hackathon&utm_campaign=announcement_article) hackathon.
 
 ## Running locally
 
